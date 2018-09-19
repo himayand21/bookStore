@@ -1,0 +1,30 @@
+.btn {
+  margin: 5px;
+  background-color: #c9302c;
+  color: white;
+}
+.btn:hover {
+  background-color: white;
+  color: #c9302c;
+}
+.button1 {
+  height: 30px;
+  border-radius: 3px;
+  border-style: none;
+  margin: 30px 0px 0px 3px;
+  background-color: white;
+  color: #c9302c;
+}
+.button1:hover {
+  border-color: white;
+  border-style: solid;
+  border-width: thin;
+  cursor: pointer;
+  border-radius: 3px;
+  background-color: #c9302c;
+  color: white;
+}
+.img {
+  max-width: 100%;
+  height: auto;
+}
